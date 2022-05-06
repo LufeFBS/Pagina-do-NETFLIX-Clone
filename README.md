@@ -13,4 +13,10 @@
 <img src= "https://user-images.githubusercontent.com/60683171/167057870-5dfb7e90-18c1-4868-b95f-0d84d98853d6.PNG" width="900px" height="400px" />
 
 # Pagina-do-NETFLIX-Clone
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
+Conclução da segunda etapa do BootCamp do Curso de Web Developer
+
+- Recriei a pagina do Netflix.
+- Tecnologias utilizadas HTML5,Css3 e JavaScript.
+- Na criação do projeto foram utilizadas técnicas de Css3 com containers e Variáveis.
+- Fortaleci meu conhecimento sobre posicionamento de elementos com Flexbox.
+- Conheci e aprendi a utilizar plugins JQuery.
