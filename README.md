@@ -13,7 +13,7 @@
 <img src= "https://user-images.githubusercontent.com/60683171/167057870-5dfb7e90-18c1-4868-b95f-0d84d98853d6.PNG" width="900px" height="400px" />
 
 # Pagina-do-NETFLIX-Clone
-Conclução da segunda etapa do BootCamp do Curso de Web Developer
+Conclusão da segunda etapa do BootCamp de Web Developer
 
 - Recriei a pagina do Netflix.
 - Tecnologias utilizadas HTML5,Css3 e JavaScript.
